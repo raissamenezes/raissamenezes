@@ -1,6 +1,6 @@
 - Hi, I’m @raissamenezes :)
 - I’m interested in AI, astrophysics and art crafts
-- I’m currently learning Artificial Intelligence (python/SQL/ml/arduino)🤖
+- I’m currently learning Artificial Intelligence (python/SQL/ml/arduino/API/Power BI/Voice Recognition)🤖
 - Twitter: @veridisquo_v
 
 <!---
